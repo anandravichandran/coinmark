@@ -1,0 +1,6 @@
+{
+  "name": "Coinmark",
+  "description": "A compliance-native stablecoin payout platform built on A-Pass identity, A-Token rules, and Cleanverse infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
